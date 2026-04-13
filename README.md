@@ -2,7 +2,7 @@
 
 A modern educational platform that connects teachers and learners through an intuitive course creation and management system.
 
-## 🚀 Features
+## Features
 
 
 - **Course Management**: Create, organize, and manage educational content

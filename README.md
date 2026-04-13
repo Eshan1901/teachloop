@@ -4,6 +4,7 @@ A modern educational platform that connects teachers and learners through an int
 
 ## 🚀 Features
 
+
 - **Course Management**: Create, organize, and manage educational content
 - **User Authentication**: Secure login and registration system
 - **Interactive Dashboard**: Track progress and manage courses
